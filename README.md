@@ -1,4 +1,4 @@
-👋 Hi, I’m @DevlinaC (Devlina Chakravarty)
+👋 Hi, I’m Devlina Chakravarty
 - I study how protein sequences encode structure, interactions, and alternative folds.
 - My work combines computational structural biology, protein design, and analysis of AI-based structure prediction to investigate fold switching and protein evolution.
 
